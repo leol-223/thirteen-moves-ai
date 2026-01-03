@@ -8,7 +8,7 @@ A custom-built strategy game featuring a high-performance heuristic-based AI opp
 <img src="game_ss.png" height="500" alt="Game Screenshot">
 </div>
 
-## 📖 About
+## About
 **Thirteen Moves** is a strategic board game centered around positional dominance. 
 
 ### Gameplay
@@ -21,12 +21,12 @@ Because the Blue side holds a natural positional advantage, a unique constraint 
 
 ---
 
-## 🤖 AI Opponent
+## AI Opponent
 <div>
 <img src="opponent_ss.png" height="500" alt="AI Opponent Preview">
 </div>
 
-The built-in agent is powered by a sophisticated **Minimax search algorithm** enhanced with several optimization techniques to provide a challenging experience at various skill levels.
+The built-in agent is powered by a sophisticated Minimax search algorithm powered by a position evaluation function, as well as several optimizations.
 
 ### Technical Specifications
 *   **Search Algorithm:** Heuristic-based Minimax.
@@ -38,6 +38,6 @@ The built-in agent is powered by a sophisticated **Minimax search algorithm** en
 
 ---
 
-## 🛠️ Built With
+## Built With
 *   [Unity](https://unity.com/) - Game Engine & Rendering.
 *   C# - Game Logic and AI Implementation.
